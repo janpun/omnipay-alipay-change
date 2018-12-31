@@ -1,5 +1,7 @@
 # Omnipay: Alipay
 
+### 基于omnipay-alipay进行修改，支持公益支付接口，自用，不熟悉的人请勿下载，版权归原作者所有
+
 [![travis][ico-travis]][link-travis]
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
@@ -13,7 +15,7 @@
 processing library for PHP. This package implements Alipay support for Omnipay.
 
 > Cross-border Alipay payment please use [`lokielse/omnipay-global-alipay`](https://github.com/lokielse/omnipay-global-alipay)
- 
+
 > Legacy Version please use [`"lokielse/omnipay-alipay": "dev-legacy"`](https://github.com/lokielse/omnipay-alipay/tree/legacy)
 
 ## Installation
